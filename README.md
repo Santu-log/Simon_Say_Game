@@ -44,5 +44,7 @@ Contributions and suggestions are welcome. Feel free to fork the repository and 
 
 <h3>🎉 Have Fun and Test Your Memory!</h3>
 <b>Screenshot</b>
-![image](https://github.com/user-attachments/assets/9aea7c85-dbc8-4869-801a-186d45a11395)
+
+![Screenshot 2025-06-28 011034](https://github.com/user-attachments/assets/0d273bd5-1106-4d2d-8fb6-d6e15b7dea6f)
+
 
