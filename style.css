@@ -15,20 +15,21 @@ text-align: center;
     margin: 2rem;
 }
 .red{
-    background-color: red;
-}
-.yellow{
-    background-color: yellow;
+    background-color:#d95980;
 }
 .green{
-    background-color: green;
+    background-color: #63aac0;
+}
+
+.yellow{
+    background-color: #f99b45;
 }
 .purple{
-    background-color: purple;
+    background-color: #819ff9;
 }
 .flash{
     background-color: white;
 }
 .light-green{
-    background-color: limegreen;
+    background-color: green;
 }
