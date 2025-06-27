@@ -8,6 +8,9 @@ let h2=document.querySelector("h2");
 
 let btns=["red","yellow","green","purple"];
 
+let highest_score=0;
+
+
 document.addEventListener("keypress",function(){
 
     
@@ -19,8 +22,15 @@ document.addEventListener("keypress",function(){
 });
 
 function levelup(){
-    level++;
+     level++;
+      if(highest_score<level){
+        highest_score=level;
+    }
+    
+   
     h2.innerText="Level "+level;
+  
+
     userseq=[];
     let randome_index=Math.floor(Math.random()*3);
     let btn="."+btns[randome_index];
@@ -72,7 +82,7 @@ function check_ANS( ind){
      }
     }
     else{
-        h2.innerText="Game over ! press any key to restart";
+        h2.innerText="Game over !Your score is "+level+" Your highest score is "+level+". Press any key to restart";
         let body=document.querySelector("body");
         body.style.backgroundColor="red";
         setTimeout(function(){
