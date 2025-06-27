@@ -43,3 +43,6 @@ Currently, the highest score resets after a page refresh. You can enhance it usi
 Contributions and suggestions are welcome. Feel free to fork the repository and submit a pull request.
 
 <h3>🎉 Have Fun and Test Your Memory!</h3>
+<b>Screenshot</b>
+![image](https://github.com/user-attachments/assets/9aea7c85-dbc8-4869-801a-186d45a11395)
+
