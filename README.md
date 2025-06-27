@@ -1,13 +1,13 @@
 <h1>Simon Say Game 🎮</h1>
 A fun and interactive Simon Say Game built using HTML, CSS, and JavaScript. Test your memory skills by repeating the color sequence that gets progressively harder. Now with a Highest Score Tracker to challenge yourself even more!
-🛠️ Technologies Used
+<h2>🛠️ Technologies Used</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li> JavaScript</li>
 </ul>
 
-🎯 How to Play
+<h2>🎯 How to Play</h2>
 <ol>
   <li>Press any key to start the game.</li>
 
@@ -27,3 +27,19 @@ A fun and interactive Simon Say Game built using HTML, CSS, and JavaScript. Test
 <li>Press any key to restart and try again!</li>
 </ul>
 </ol>
+
+<h2>✨ Features</h2>
+✔️ Clean and colorful button design
+✔️ Interactive flashing buttons with user click feedback
+✔️ Increasing difficulty with each level
+✔️ Highest score tracker to keep track of your best performance
+✔️ Game over detection with red background effect and score display
+✔️ Simple, responsive layout
+
+<h2>⚠️ Known Improvements</h2>
+Currently, the highest score resets after a page refresh. You can enhance it using localStorage to persist the score across sessions.
+
+<h2>🤝 Contributing</h2>
+Contributions and suggestions are welcome. Feel free to fork the repository and submit a pull request.
+
+<h3>🎉 Have Fun and Test Your Memory!</h3>
