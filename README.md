@@ -19,9 +19,11 @@ A fun and interactive Simon Say Game built using HTML, CSS, and JavaScript. Test
 
 <li>If you make a mistake:</li>
 
-The game will display your score and highest score.
+<ul>
+  <li>The game will display your score and highest score.</li>
 
-The background will briefly turn red.
+<li>The background will briefly turn red.</li>
 
-Press any key to restart and try again!
+<li>Press any key to restart and try again!</li>
+</ul>
 </ol>
